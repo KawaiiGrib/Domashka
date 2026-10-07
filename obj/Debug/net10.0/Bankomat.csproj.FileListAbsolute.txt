@@ -1,0 +1,16 @@
+D:\домашка\C#\Bankomat\Bankomat\bin\Debug\net10.0\Bankomat.exe
+D:\домашка\C#\Bankomat\Bankomat\bin\Debug\net10.0\Bankomat.deps.json
+D:\домашка\C#\Bankomat\Bankomat\bin\Debug\net10.0\Bankomat.runtimeconfig.json
+D:\домашка\C#\Bankomat\Bankomat\bin\Debug\net10.0\Bankomat.dll
+D:\домашка\C#\Bankomat\Bankomat\bin\Debug\net10.0\Bankomat.pdb
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.AssemblyInfoInputs.cache
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.AssemblyInfo.cs
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.csproj.CoreCompileInputs.cache
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.sourcelink.json
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.dll
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\refint\Bankomat.dll
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.pdb
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.genruntimeconfig.cache
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\ref\Bankomat.dll
+D:\домашка\C#\Bankomat\Bankomat\obj\Debug\net10.0\Bankomat.csproj.Up2Date
