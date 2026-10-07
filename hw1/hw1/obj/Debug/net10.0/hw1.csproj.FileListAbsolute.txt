@@ -1,0 +1,14 @@
+D:\домашка\C#\hw1\hw1\bin\Debug\net10.0\hw1.exe
+D:\домашка\C#\hw1\hw1\bin\Debug\net10.0\hw1.deps.json
+D:\домашка\C#\hw1\hw1\bin\Debug\net10.0\hw1.runtimeconfig.json
+D:\домашка\C#\hw1\hw1\bin\Debug\net10.0\hw1.dll
+D:\домашка\C#\hw1\hw1\bin\Debug\net10.0\hw1.pdb
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.AssemblyInfoInputs.cache
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.AssemblyInfo.cs
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.csproj.CoreCompileInputs.cache
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.dll
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\refint\hw1.dll
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.pdb
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\hw1.genruntimeconfig.cache
+D:\домашка\C#\hw1\hw1\obj\Debug\net10.0\ref\hw1.dll

@@ -1,0 +1,14 @@
+D:\домашка\C#\Game\Game\bin\Debug\net10.0\Game.exe
+D:\домашка\C#\Game\Game\bin\Debug\net10.0\Game.deps.json
+D:\домашка\C#\Game\Game\bin\Debug\net10.0\Game.runtimeconfig.json
+D:\домашка\C#\Game\Game\bin\Debug\net10.0\Game.dll
+D:\домашка\C#\Game\Game\bin\Debug\net10.0\Game.pdb
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.AssemblyInfoInputs.cache
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.AssemblyInfo.cs
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.csproj.CoreCompileInputs.cache
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.dll
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\refint\Game.dll
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.pdb
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\Game.genruntimeconfig.cache
+D:\домашка\C#\Game\Game\obj\Debug\net10.0\ref\Game.dll

@@ -1,0 +1,15 @@
+D:\домашка\C#\DZ2.4\DZ2.4\bin\Debug\net10.0\DZ2.4.exe
+D:\домашка\C#\DZ2.4\DZ2.4\bin\Debug\net10.0\DZ2.4.deps.json
+D:\домашка\C#\DZ2.4\DZ2.4\bin\Debug\net10.0\DZ2.4.runtimeconfig.json
+D:\домашка\C#\DZ2.4\DZ2.4\bin\Debug\net10.0\DZ2.4.dll
+D:\домашка\C#\DZ2.4\DZ2.4\bin\Debug\net10.0\DZ2.4.pdb
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.AssemblyInfoInputs.cache
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.AssemblyInfo.cs
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.csproj.CoreCompileInputs.cache
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.dll
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\refint\DZ2.4.dll
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.pdb
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.genruntimeconfig.cache
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\ref\DZ2.4.dll
+D:\домашка\C#\DZ2.4\DZ2.4\obj\Debug\net10.0\DZ2.4.csproj.Up2Date
